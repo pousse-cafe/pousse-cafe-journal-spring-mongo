@@ -13,7 +13,7 @@
     <name>Pousse-Café - Journal (Spring MongoDB)</name>
 
     <properties>
-        <spring.data.mongo.version>2.1.11.RELEASE</spring.data.mongo.version>
+        <spring.data.mongo.version>3.3.5</spring.data.mongo.version>
     </properties>
 
     <dependencies>
